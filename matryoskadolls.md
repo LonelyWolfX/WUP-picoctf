@@ -1,5 +1,6 @@
 tải ảnh về mở lên để check đúng ảnh hay không
 ![dolls](https://github.com/LonelyWolfX/WUP-picoctf/assets/121162586/fe394925-eb1d-4ce1-90c5-f88467bbf6ff)
+//con búp bê này nguồn gốc từ Nga, có cấu tạo nhiều búp bê nhỏ hơn ở bên trong
 binwalk -e để lấy thông tin
 ![image](https://github.com/LonelyWolfX/WUP-picoctf/assets/121162586/2f7f68c5-3d21-4b83-a3b2-03d72446536e)
 ở đây có file đuôi extracted tiến hành cd vào
